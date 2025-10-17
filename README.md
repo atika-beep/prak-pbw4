@@ -1,3 +1,8 @@
+Nama : Atika Dian Azzahra <br>
+NPM  : 4523210024 <br>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +69,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Tampilan Register :
+<img width="1920" height="1080" alt="Screenshot 2025-10-17 162916" src="https://github.com/user-attachments/assets/b1b0bb20-aeb6-4e3c-a00c-f515d96bf319" />
+
+Tampilan Register jika menginput password kurang dari delapan :
+<img width="1920" height="1080" alt="Screenshot 2025-10-17 163056" src="https://github.com/user-attachments/assets/ad1f2954-f61c-497f-bcfb-c744a8424cb3" />
+
+Tampilan jika sudah berhasil Log in :
+<img width="1920" height="1080" alt="Screenshot 2025-10-17 163129" src="https://github.com/user-attachments/assets/aab59d85-e9e8-4ce6-86f1-bd52c62bdd42" />
+
